@@ -20,8 +20,8 @@
 		<P>
 			Deux phases d'accélérations se produisirent : à la fin des années 1960-1970, l’application
 			pratique des concepts évoqués à la fin des années 1950 et ensuite, dans les années 1990,
-			lorsque la popularisation des fondements de l’Internet moderne passa par l’apparition du <a href="page2.html"><font color="red">World
-			Wide Web</font></a>
+			lorsque la popularisation des fondements de l’Internet moderne passa par l’apparition du 
+			<a href="page2.html"><font color="red">World Wide Web</font></a>
 		</P>
 
 
@@ -48,7 +48,7 @@
 							<strong>1952</strong>
 						</td>
 							
-						<td>Les Laboratoires Bell créent le premier 	Modem permettant de transmettre des
+						<td>Les Laboratoires Bell créent le premier Modem permettant de transmettre des
 							données binaires sur une simple ligne téléphonique.
 						</td>
 				</tr>
@@ -58,7 +58,7 @@
 							<strong>1961</strong>
 						</td>
 							
-						<td>Leonard Kleinrock du Massachusetts 			Institute of Technology publie une 			première
+						<td>Leonard Kleinrock du Massachusetts Institute of Technology publie une première
 							théorie sur l'utilisation de la commutation de paquets pour transférer des données.
 						</td>
 				</tr>
@@ -81,7 +81,8 @@
 						</td>
 							
 						<td>
-							Leonard Kleinrock du MIT publie un 		livre sur la communication par 			commutation
+							Leonard Kleinrock du MIT publie un livre sur la communication par 	
+							commutation
 							de paquets pour réaliser un réseau
 						</td>
 				</tr>
@@ -125,7 +126,7 @@
 						</td>
 							
 						<td>
-							Naissance de l'International Network Working 		Group, organisme chargé de la
+							Naissance de l'International Network Working Group, organisme chargé de la
 							gestion d’Internet.
 						</td>
 				</tr>
