@@ -6,7 +6,8 @@
 </head>
 <body>
 		
-		<h2>Histoire d’Internet</h2>
+		<h1>Histoire d’Internet</h1>
+
 		<P>
 			L’<strong>histoire d'Internet</strong> remonte au développement des premiers réseaux de télécommunication.
 			L’idée d’un réseau informatique, permettant aux utilisateurs de différents ordinateurs de
@@ -21,7 +22,7 @@
 			Deux phases d'accélérations se produisirent : à la fin des années 1960-1970, l’application
 			pratique des concepts évoqués à la fin des années 1950 et ensuite, dans les années 1990,
 			lorsque la popularisation des fondements de l’Internet moderne passa par l’apparition du 
-			<a href="page2.html"><font color="red">World Wide Web</font></a>
+			<a href="page2.html">World Wide Web</a>
 		</P>
 
 
@@ -34,13 +35,13 @@
 			la bulle Internet.
 		</p>
 
-		<font font size="+2">Chronologie sélective</font>
+		<h2>Chronologie sélective</h2>
 
-		<table border="1px">
+		<table>
 
-				<tr bgcolor="grey">
-						<td><strong>Année</strong></td>
-						<td><strong><center>Evènement</center></strong></td>
+				<tr>
+						<td><b>Année</b></td>
+						<td><strong>Evènement</strong></td>
 				</tr>
 
 				<tr>
@@ -81,7 +82,7 @@
 						</td>
 							
 						<td>
-							Leonard Kleinrock du MIT publie un livre sur la communication par 	
+							Leonard Kleinrock du MIT publie un 	livre sur la communication par 	
 							commutation
 							de paquets pour réaliser un réseau
 						</td>
@@ -285,15 +286,16 @@
 						</td>
 				</tr>
 		</table>
-</br>
-</br>
 
-<center><img src="firstweb.jpg" width=400px; height=400px;></center>
-<figcaption><center>
+<br>
+
+<img src="firstweb.jpg" width=400 height=400 alt="">
+
+<p>
 	Fig.1 - Le premier serveur web, actuellement au musée du CERN, étiqueté « <i>This machine is a
-	server. DO NOT POWER IT DOWN!!»</i></center> 
-</figcaption>
-</br>
+	server. DO NOT POWER IT DOWN!!»</i>
+</p>
+<br>
 
 <h3>Protocole TCP/IP</h3>
 
